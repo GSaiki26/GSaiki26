@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSaiki26)](https://github.com/GSaiki26)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSaiki26)](https://github.com/GSaiki26)
