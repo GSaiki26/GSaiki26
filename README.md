@@ -1,8 +1,7 @@
-Hey, I'm Saiki, a backend/devops loved guy. Checkout my trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=GSaiki26)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br><br>
-My mainly programming languages are:
+Hi, name's Saiki.
 
+I'm a Backend Developer. Currently unemployed and studying the Rust🦀 programming language.<br><br>
+My mainly programming languages are:
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSaiki26&layout=compact&langs_count=16&theme=calm)
 
 
