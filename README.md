@@ -8,17 +8,17 @@ Currently unemployed and studying the Rust🦀 programming language.<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=GSaiki26&show_icons=true&theme=radical&card_width=400" alt="Status"/><br>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaiki26&layout=compact&langs_count=6&theme=radical&card_width=438" alt="Top languages"/> -->
 
-# Skills
-### Programming Languages
+## Skills 🔥
+### Programming Languages 📖
 [![My Languages](https://skillicons.dev/icons?i=bash,cs,java,js,ts,py,rust)](https://skillicons.dev)
 
-### Libs and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=adonis,bots,dotnet,express,flask,jest,selenium,sequelize)](https://skillicons.dev)
+<!-- ### Libs and Frameworks -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=adonis,bots,dotnet,express,flask,jest,selenium,sequelize)](https://skillicons.dev) -->
 
-### Tools
+### Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,grafana,linux,mongodb,nodejs,postgres,prometheus,vscode)](https://skillicons.dev)
 
-# Contacts
+# Contacts 📚
 <a href="https://www.linkedin.com/in/gustavo-saiki-a34527170/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
