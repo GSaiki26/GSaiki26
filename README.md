@@ -10,7 +10,7 @@ Currently unemployed and studying the Rust🦀 programming language.<br><br>
 
 ## 🔥 Skills
 ### 📖 Programming Languages
-[![My Languages](https://skillicons.dev/icons?i=bash,cs,java,js,ts,py,rust)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=bash,cs,js,ts,py,rust)](https://skillicons.dev)
 
 <!-- ### Libs and Frameworks -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=adonis,bots,dotnet,express,flask,jest,selenium,sequelize)](https://skillicons.dev) -->
