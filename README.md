@@ -10,13 +10,13 @@ Currently studying the Rust🦀 programming language.<br><br>
 
 ## 🔥 Skills
 ### 📖 Programming Languages
-[![My Languages](https://skillicons.dev/icons?i=bash,cs,js,ts,py,rust)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=bash,ts,py,rust)](https://skillicons.dev)
 
 <!-- ### Libs and Frameworks -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=adonis,bots,dotnet,express,flask,jest,selenium,sequelize)](https://skillicons.dev) -->
 
 ### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,grafana,linux,mongodb,nodejs,postgres,prometheus,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,grafana,linux,mongodb,postgres,prometheus,vscode)](https://skillicons.dev)
 
 # 📚 Contacts
 <a href="https://www.linkedin.com/in/gustavo-saiki-a34527170/">
